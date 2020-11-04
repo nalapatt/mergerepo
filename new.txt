@@ -1,1 +1,2 @@
-welcome to git and github training"
+welcome to git and github training
+making changes DeveloperA
