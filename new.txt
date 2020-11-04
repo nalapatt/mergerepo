@@ -1,2 +1,6 @@
 welcome to git and github training
+<<<<<<< HEAD
 Changes made by Developer B
+=======
+making changes DeveloperA
+>>>>>>> 8f851f3701dd2b284d79a9ec3abe9aa4e2746c42
